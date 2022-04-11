@@ -1,0 +1,3 @@
+[submodule "berocket"]
+	path = berocket
+	url = git@bitbucket.org:berocket/plugin-framework.git
